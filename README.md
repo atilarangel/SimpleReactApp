@@ -1,5 +1,6 @@
 # simplereactapp
 Learning About ReactJS
 # Build Setup 
-install dependencies
+#install dependencies	
+
 npm install
