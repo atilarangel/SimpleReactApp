@@ -4,6 +4,7 @@ export default class Card extends React.Component{
     render(){
         return(
             <div className="card">
+                
                 <div className="card-image waves-effect waves-block waves-light">
                     <img className="activator" src={this.props.itens.image} />
                 </div>

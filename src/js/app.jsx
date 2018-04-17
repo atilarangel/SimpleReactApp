@@ -8,10 +8,10 @@ import CardList from './card/card_list';
 
 let App = (
     <div>
-        <Navbar title ='Atila' color ='red'/>
+        <Navbar title ='Atila' color ='blue'/>
     <div className='container'>
         <Title />
-        <CardList lineSize = '2' colSize = ''/>
+        <CardList lineSize = '1' colSize = '6'/>
         </div>
     </div>
     
