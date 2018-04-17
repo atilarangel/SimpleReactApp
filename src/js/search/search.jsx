@@ -20,7 +20,6 @@ export default class Search extends React.Component{
                     <input placeholder ='Write something' onChange = {this.updateSearch} type='text' value={this.props.search} />
                     <label>Search</label>
                 </div>
-                <button>Search</button>
             </form>
             
         );

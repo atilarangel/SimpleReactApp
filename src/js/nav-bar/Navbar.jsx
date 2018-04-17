@@ -14,7 +14,7 @@ export default class Navbar extends React.Component{
         <nav>
             <div className={navColor}>
             <div className='container'>
-                <a href="#" className="brand-logo">{this.props.title}</a>
+                <a href="#" className="brand-logo left">{this.props.title}</a>
                 <NavMenu menu={menu}/>
             </div>
             </div>
